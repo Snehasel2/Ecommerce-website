@@ -1,0 +1,184 @@
+#banner1
+{
+    height:250px;
+    width:100%;
+    background-image:url("../visual/back2.jpg");
+    border-radius:10px;
+}
+#container
+{
+    height:1700px;
+}
+#banner1 table
+{
+    margin-left:430px;
+    padding:60px;
+}
+#map
+{
+    float:right;
+    margin-top:70px;
+    border-radius:10px;
+    margin-right:80px;
+    margin-bottom:70px;
+}
+#text
+{
+    margin-top:100px;
+    margin-left:80px;
+    float:left;
+    padding:5px;
+    overflow:hidden;
+
+}
+#text h4
+{
+    margin-left:50px;
+    padding:5px;
+}
+#text h3
+{
+    margin-top:20px;
+    margin-left:30px;
+}
+#details
+{
+  height:630px;
+  width:90%;
+  border-radius:10px;
+  border-style: solid;
+  overflow:hidden;
+  margin-left:60px;
+}
+#space 
+{
+  margin-top:2px;
+  margin-left:60px;
+  float:left;
+}
+#space h4 
+{
+   margin-left:40px;   
+   margin-top:50px;
+}
+#space h1 
+{
+   margin-left:40px;   
+   margin-top:10px;
+}
+#space input 
+{
+    width:90%;
+    padding:14px;
+    margin-left:70px;
+    margin-top:40px;
+}
+#space button
+{
+    margin-left:27px;
+    margin-top:30px;
+    width:70px;
+    padding:5px;
+}
+#space textarea
+{
+   margin-top:40px;
+   margin-left:68px;
+}
+button:hover
+{
+    background-color:rgb(10, 12, 54);
+    color:white;
+}
+#follower
+{
+    margin-bottom:40px;
+    margin-top:10px;
+}
+#follower
+{
+    height:400px;
+  
+}
+#follower img{
+    height:200px;
+    width:34%;
+    padding:5px;
+    float:left;
+}
+#img1
+{
+   float:right;
+   margin-right:50px;
+
+}
+#img2
+{
+    float:right;
+    margin-right:50px;
+    margin-bottom:12px;
+}
+#img3
+{
+    float:right;
+    margin-right:50px;
+    overflow:hidden;
+}
+#banner
+{
+	clear:both;
+	height:150px;
+	width:100%;
+	border-radius:10px;
+	background-color:rgb(13,23,103);
+	overflow:hidden;
+}
+.asign
+{
+    float:right;
+    width:30%;
+    margin-left:950px;
+    margin-top:50px;
+    
+}
+#banner input
+{
+    height:40px;
+    width:250px;
+
+}
+#banner button
+{
+  height:40px;
+}
+button:hover
+{
+    background-color: blue;
+}
+#footer
+{   height:300px;
+	background-color:white;
+	clear:both;
+}
+#footer ul li 
+{
+   display:inline;
+   text-decoration:none;
+   float:left;  
+   margin-top:25px;   
+}
+#footer ul li a
+{
+   text-decoration:none;
+   color:black;
+   padding:10px;
+   
+}
+
+#footer p
+{
+	float:right;
+	color:black;
+	padding:10px;
+}
+
